@@ -1,1 +1,16 @@
 /* Empty. Add your own CSS if you like */
+.side-head {
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.side-head-img {
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    border: 4px solid #fff;
+    border-radius: 40px;
+    background-color: white;
+}
